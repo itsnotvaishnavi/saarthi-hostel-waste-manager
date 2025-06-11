@@ -4,7 +4,10 @@
 
 ## 📸 Preview
 
-![Hero Section](https://i.postimg.cc/q7z3bY67/Whats-App-Image-2024-11-10-at-3-05-52-PM.jpg)
+![image](https://github.com/user-attachments/assets/4e7fe235-8266-46f0-8023-587431281223)
+![image](https://github.com/user-attachments/assets/75abdff4-aa8a-4172-b77c-2830ef17884f)
+
+
 
 ---
 
@@ -26,11 +29,6 @@
 ├── back.css # Stylesheet
 └── main.js # JavaScript for interaction
 
-yaml
-Copy
-Edit
-
----
 
 ## 🚀 How to Run
 
@@ -59,7 +57,5 @@ Admin dashboard for waste tracking
 Analytics on waste recycled
 
 👨‍💻 Author
-Developed by [Your Name]
+Developed by Vaishnavi
 
-📄 License
-This project is open-source and available under the MIT License.
